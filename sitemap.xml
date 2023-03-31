@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://sailormath.github.io/posts/hi-there/</loc>
+    <lastmod>2023-03-31T17:43:26+05:30</lastmod>
+  </url><url>
+    <loc>https://sailormath.github.io/posts/</loc>
+    <lastmod>2023-03-31T17:43:26+05:30</lastmod>
+  </url><url>
+    <loc>https://sailormath.github.io/</loc>
+    <lastmod>2023-03-31T17:43:26+05:30</lastmod>
+  </url><url>
     <loc>https://sailormath.github.io/about/</loc>
     <lastmod>2023-03-31T11:32:29+05:30</lastmod>
   </url><url>
@@ -11,7 +20,5 @@
     <loc>https://sailormath.github.io/categories/</loc>
   </url><url>
     <loc>https://sailormath.github.io/tags/</loc>
-  </url><url>
-    <loc>https://sailormath.github.io/</loc>
   </url>
 </urlset>

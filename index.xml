@@ -5,7 +5,17 @@
     <link>https://sailormath.github.io/</link>
     <description>Recent content on The SailorMath Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://sailormath.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Fri, 31 Mar 2023 17:43:26 +0530</lastBuildDate><atom:link href="https://sailormath.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hi There</title>
+      <link>https://sailormath.github.io/posts/hi-there/</link>
+      <pubDate>Fri, 31 Mar 2023 17:43:26 +0530</pubDate>
+      
+      <guid>https://sailormath.github.io/posts/hi-there/</guid>
+      <description>hi there! first post.</description>
+    </item>
+    
     <item>
       <title>About Me</title>
       <link>https://sailormath.github.io/about/</link>
