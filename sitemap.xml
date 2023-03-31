@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://amal.pages.dev/about/</loc>
+    <loc>https://sailormath.github.io/about/</loc>
     <lastmod>2023-03-31T11:32:29+05:30</lastmod>
   </url><url>
-    <loc>https://amal.pages.dev/email/</loc>
+    <loc>https://sailormath.github.io/email/</loc>
     <lastmod>2022-08-16T14:45:41+05:30</lastmod>
   </url><url>
-    <loc>https://amal.pages.dev/</loc>
+    <loc>https://sailormath.github.io/categories/</loc>
   </url><url>
-    <loc>https://amal.pages.dev/categories/</loc>
+    <loc>https://sailormath.github.io/tags/</loc>
   </url><url>
-    <loc>https://amal.pages.dev/tags/</loc>
+    <loc>https://sailormath.github.io/</loc>
   </url>
 </urlset>
