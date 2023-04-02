@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>home on The SailorMath Blog</title>
+    <title>Home on The SailorMath Blog</title>
     <link>https://sailormath.github.io/</link>
-    <description>Recent content in home on The SailorMath Blog</description>
+    <description>Recent content in Home on The SailorMath Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 31 Mar 2023 17:43:26 +0530</lastBuildDate><atom:link href="https://sailormath.github.io/index.xml" rel="self" type="application/rss+xml" />
