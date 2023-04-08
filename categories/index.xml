@@ -2,9 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on The SailorMath Blog</title>
-    <link>https://sailormath.github.io/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on The SailorMath Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://sailormath.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Apr 2023 22:11:10 +0530</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mathematics</title>
+      <link>/categories/mathematics/</link>
+      <pubDate>Sun, 02 Apr 2023 22:11:10 +0530</pubDate>
+      
+      <guid>/categories/mathematics/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
