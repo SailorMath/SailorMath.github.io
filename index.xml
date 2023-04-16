@@ -6,7 +6,22 @@
     <description>Recent content in Home on The SailorMath Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Apr 2023 15:16:08 +0530</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Apr 2023 15:38:30 +0530</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Algebraic Geometry</title>
+      <link>/posts/algebraic-geometry/</link>
+      <pubDate>Sun, 16 Apr 2023 15:38:30 +0530</pubDate>
+      
+      <guid>/posts/algebraic-geometry/</guid>
+      <description>14/05/2021 18:04# Chapter 1
+Section 1 $Z(T)$ can be expressed as the common zeros of the finite set of polynomals $f_1, \cdots, f_r$.
+$A = k[x_1, \cdots, x_n]$ is a Noetherian ring.
+Every ideal in $A = k[x]$ is principle
+If $k$ is algebraically closed then $k$ is an infinite set.
+Example 1.1.3. Any nonempty open subset of an irreducible space is irreducible and dense
+Example 1.1.4. If $Y$ is an irreducible subset of $X$, then its closure $\bar{Y}$ in $X$ is also irreducible.</description>
+    </item>
+    
     <item>
       <title>Test 2</title>
       <link>/posts/test-2/</link>
